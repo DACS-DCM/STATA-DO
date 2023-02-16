@@ -50,7 +50,7 @@ log close crude_analysis
 capture log close 
 clear 
 exit 
-* add some blank line here:
+* keep some blank line here:
 
 
 
